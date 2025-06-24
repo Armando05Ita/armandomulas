@@ -1,1 +1,1 @@
-Ciao sono un shopify developer in cui ho lavorato per aziende americane per ricostruzione di siti e creazione di proggeti occupondomi non solo del frontend ,a anche nel backend importando prodotti gestendo colezzioni e usando i metafields e metadata e metaobject
+Ciao sono un shopify developer in cui ho lavorato per aziende americane per ricostruzione di siti e creazione di proggeti occupondomi non solo del frontend ,a anche nel backend importando prodotti gestendo collezioni e usando i metafields e metadata e metaobject.
